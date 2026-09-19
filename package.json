@@ -87,7 +87,7 @@
     "@zxcvbn-ts/language-nl-be": "3.0.2",
     "@zxcvbn-ts/language-pl": "3.0.2",
     "@zxcvbn-ts/language-pt-br": "3.0.2",
-    "adm-zip": "0.5.16",
+    "adm-zip": "0.6.1",
     "ansi-html-community": "0.0.8",
     "apexcharts": "3.54.1",
     "archiver": "7.0.1",
