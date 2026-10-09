@@ -240,7 +240,7 @@
     "passport-local-mongoose": "7.1.2",
     "paypal-rest-sdk": "1.8.1",
     "pify": "5.0.0",
-    "piscina": "4.9.2",
+    "piscina": "4.9.4",
     "plist": "3.1.0",
     "pluralize": "8.0.0",
     "pm2": "5.4.3",
